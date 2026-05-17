@@ -153,3 +153,11 @@ PYTHONPATH=. pytest tests/
 └── tests/                    # Validation & Unit Tests
     └── test_pipeline.py      # Pytest suite for checking modules and configs
 ```
+
+## 🔮 Future Improvements
+
+- Deploy the application on AWS/GCP
+- Add real-time recommendation updates
+- Improve sentiment analysis using BERT
+- Add CI/CD pipeline with GitHub Actions
+- Integrate user authentication
