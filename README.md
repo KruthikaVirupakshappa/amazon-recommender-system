@@ -243,4 +243,10 @@ All paths, ports, and URIs are centrally managed in **`configs/config.yaml`**. T
 
 ---
 
+## 🔮 Future Improvements
 
+- Deploy the application on AWS/GCP
+- Add real-time recommendation updates
+- Improve sentiment analysis using BERT
+- Add CI/CD pipeline with GitHub Actions
+- Integrate user authentication
